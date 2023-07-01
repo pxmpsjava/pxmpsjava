@@ -8,6 +8,6 @@
 - Java is my main language, started when I was 14. I know most methods and operators
 - Javascript is my second language, started when I was 14. Im currently learning it.
 ## Future
-- In the future i want to start learning python and the MongoDB database
+- In the future I want to start learning python and the MongoDB database
 ## Funfact
 - Fun fact: I started coding with 12
