@@ -9,5 +9,3 @@
 - Javascript is my second language, started when I was 14. Im currently learning it.
 ## Future
 - In the future I want to start learning python and the MongoDB database
-## Funfact
-- Fun fact: I started coding with 12
